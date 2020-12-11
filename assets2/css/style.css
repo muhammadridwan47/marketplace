@@ -1,0 +1,202 @@
+
+
+
+
+
+@media screen and (min-width: 992px) {
+
+
+
+/* Form login  */
+#loginbuat{
+  width: 773px !important;
+  height: 407px !important;
+  
+}
+
+	
+}
+
+/*form login */
+.exit-btn{
+  position: relative;float: right;
+  /*left:24px;*/
+  top: 4px;
+  color: #F39B9D;
+  cursor: pointer;
+}
+
+
+.register{
+  cursor: pointer;
+}
+
+
+.bglogin{
+  background-size: cover;
+  background-position: -0.42px 0.77px;
+  background-repeat: no-repeat;
+}
+
+.h4-signin{
+  padding-top: 45px !important;
+  font-size: 20px !important;
+  font-family:'Asap';
+}
+
+
+#form{
+  margin-top:54px;
+}
+
+#form input,.sign-in{
+  border-radius: 0;
+  font-family:'Asap';
+  height: 33.38px !important;
+}
+
+.sign-in{
+  background-color: #F39B9D;
+  font-size: 19px;
+  line-height: 13px;
+}
+
+.spinner{
+  background-color: #F39B9D;
+  font-size: 19px;
+  line-height: 13px;
+}
+
+.forgot-btn{
+  font-family:'Asap';
+  position: relative;
+  float: right;
+  color: #F39B9D;
+  bottom: 30px;
+  cursor: pointer;
+  font-size: 16px;
+
+}
+
+.register{
+  font-family:'Asap';
+  cursor: pointer; 
+  font-size: 14px;
+  margin-top: 46px;
+}
+
+.register span{
+  font-family:'Asap';
+  color: #F39B9D
+}
+
+#loginModal .modal-content{
+  height: 0px;
+  border:0px;
+  background-color: transparent;
+}
+
+
+/* Form Register  */
+
+
+
+.h4-register{
+  padding-top: 25px !important;
+  font-size: 20px !important;
+  font-family:'Asap';
+}
+
+
+#form-registration{
+  margin-top:-20px;
+}
+.information-register{
+  font-size: 9px !important;
+  font-family: 'Arial';
+  color: #161514;
+}
+
+.information-register span{
+  color: #F39B9D;
+}
+
+#form-registration input,.create-account{
+  border-radius: 0;
+  font-family:'Asap';
+  height: 33.38px !important;
+}
+
+.create-account{
+  background-color: #F39B9D;
+  font-size: 19px;
+  line-height: 13px;
+}
+
+.forgot-btn{
+  font-family:'Asap';
+  position: relative;
+  float: right;
+  color: #F39B9D;
+  bottom: 30px;
+  cursor: pointer;
+  font-size: 16px;
+
+}
+
+.ready{
+  font-family:'Asap';
+  cursor: pointer; 
+  font-size: 14px;
+  margin-top: 35px;
+}
+
+.ready span{
+  font-family:'Asap';
+  color: #F39B9D
+}
+
+#registerModal .modal-content{
+  height: 0px;
+  border:0px;
+  background-color: transparent;
+}
+
+
+/* Form forgot  */
+
+.h4-forgot{
+  padding-top: 75px !important;
+  font-size: 20px !important;
+  font-family:'Asap';
+}
+
+
+#forgot-password{
+  margin-top:92px;
+}
+
+#forgot-password input,.forgot-password{
+  border-radius: 0;
+  font-family:'Asap';
+  height: 33.38px !important;
+}
+
+.forgot-password{
+  background-color: #F39B9D;
+  font-size: 19px;
+  line-height: 13px;
+}
+
+
+
+#forgot .modal-content{
+  height: 0px;
+  border:0px;
+  background-color: transparent;
+}
+
+
+
+
+

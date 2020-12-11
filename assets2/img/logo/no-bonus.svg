@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="133.36" height="105.105" viewBox="0 0 133.36 105.105">
+  <g id="no-bonus" transform="translate(-807 -261.66)">
+    <path id="Rectangle_87" data-name="Rectangle 87" d="M.375,0H132.984a.376.376,0,0,1,.376.376V58.3a.376.376,0,0,1-.376.376H.376A.376.376,0,0,1,0,58.3V.375A.375.375,0,0,1,.375,0Z" transform="translate(807 261.66)" fill="red"/>
+    <text id="_100" data-name="$100" transform="translate(874 305.008)" fill="#fff" font-size="37" font-family="Tahoma"><tspan x="-40.396" y="0">$100</tspan></text>
+    <rect id="Rectangle_349" data-name="Rectangle 349" width="133.358" height="42.783" transform="translate(807 323.982)" fill="#ccc"/>
+    <text id="NO_BONUS" data-name="NO BONUS" transform="translate(874 350.29)" fill="#1a1a1a" font-size="18" font-family="Tahoma"><tspan x="-43.783" y="0">NO BONUS</tspan></text>
+  </g>
+</svg>
