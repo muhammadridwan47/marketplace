@@ -18,7 +18,7 @@ Graphich Suplement adalah Marketpalce berbasis website yang digunakan untuk memb
 
 Untuk pengujian login bisa menggunakan akun di bawah ini:
 
-USER Biasa
+<b>USER Biasa</b>
 <br/>
 username: riduwan4747
 <br/>
