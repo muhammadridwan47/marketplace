@@ -14,20 +14,24 @@ Halo,<strong>Everyone</strong> kali ini saya persembahkan.
 
 Graphich Suplement adalah Marketpalce berbasis website yang digunakan untuk membeli aset desain baik Font,Illustration,Image,and Logo. tersedia juga fitur credit yang terintegrasi dengan Paypal. Aplikasi ini dibangun dengan menggunakan Framework php yaitu Codeigniter.
 
-### # HOW TO INSTALL
+### # Pengujian
 
-Download the projects:
+Untuk pengujian login bisa menggunakan akun di bawah ini:
 
-```
-~$ git clone https://github.com/muhammadridwan47/zwallet-website
-```
+USER Biasa
+username: riduwan4747
+passoword: 12345678
 
-install dependencies using npm or yarn   
-```
-yarn OR npm i
-```
+Designer 
+username: aqeela
+passoword: 123
 
-running App
-```
-yarn start or npm start
-```
+Affiliasi
+username: josstype
+passoword: 123
+
+admin
+username: balstudio
+passoword: 123
+
+
