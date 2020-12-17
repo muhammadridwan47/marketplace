@@ -1,13 +1,8 @@
 <h1 align="center">
-	<a href="https://zwallet.muhammadriduwan.com/">
-		ZWallet Web Version
+	<a href="https://marketplace.muhammadriduwan.com/">
+		Graphic Supplement
 	</a>
 </h1>
-
-<p align="center">
-	<strong>Simpan uang tanpa dompet</strong><br>
-	Katakan <strong>Selamat Tinggal</strong> pada dompetmu <i>Sekarang</i>.
-</p>
 
 
 ![image](https://user-images.githubusercontent.com/69374541/102449170-4b5a8f00-4066-11eb-892a-5eb91741ad5f.png)
