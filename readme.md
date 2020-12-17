@@ -12,7 +12,7 @@
 
 Halo,<strong>Everyone</strong> kali ini saya persembahkan.
 
-Zwallet Apps adalah sebuah aplikasi payment gateway berbasis website yang digunakan untuk transfer uang dan isi saldo secara digital. Untuk fitur top up sudah terintegrasi dengan Midtrans. Aplikasi ini dibangun dengan menggunakan React Js sebagai framework .
+Graphich Suplement adalah Marketpalce berbasis website yang digunakan untuk membeli aset desain baik Font,Illustration,Image,and Logo. tersedia juga fitur credit yang terintegrasi dengan Paypal. Aplikasi ini dibangun dengan menggunakan Framework php yaitu Codeigniter.
 
 ### # HOW TO INSTALL
 
